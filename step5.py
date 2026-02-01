@@ -1,0 +1,3 @@
+(Biological interpretation of the identified protein indicates that Lysozyme C plays a crucial role in innate immunity.
+It acts as an antibacterial enzyme by hydrolyzing peptidoglycan present in bacterial cell walls, leading to cell lysis.
+The presence of this protein in body secretions such as tears and saliva highlights its importance as a first-line defense mechanism against pathogenic microorganisms.)
